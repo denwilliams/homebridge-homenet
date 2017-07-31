@@ -13,6 +13,10 @@
   "keywords": [
     "homebridge-plugin"
   ],
+  "engines": {
+    "node": ">=6.0",
+    "homebridge": ">=0.4.0"
+  },
   "author": "",
   "license": "MIT",
   "bugs": {
