@@ -1,0 +1,25 @@
+{
+  "name": "homebridge-homenet",
+  "version": "1.0.0",
+  "description": "Homenet4 integration into Homebridge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denwilliams/homebridge-homenet.git"
+  },
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/denwilliams/homebridge-homenet/issues"
+  },
+  "homepage": "https://github.com/denwilliams/homebridge-homenet#readme",
+  "dependencies": {
+    "got": "^7.1.0"
+  }
+}
